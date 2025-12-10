@@ -1,2 +1,2 @@
-nama = "agus supardi"
-print(nama)
+name = "agus supardi"
+print("Nama saya adalah: ",name)
