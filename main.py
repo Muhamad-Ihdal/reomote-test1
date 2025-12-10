@@ -1,1 +1,2 @@
-print("hello world")
+nama = "agus supardi"
+print(nama)
